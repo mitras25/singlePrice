@@ -1,0 +1,9 @@
+.container {
+  margin: 0 auto;
+  width: 48rem;
+  height: 30rem;
+}
+.texto{
+  display: flex;
+  
+}
